@@ -1,5 +1,5 @@
 # Motivation
-Lack of [maven](http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html) like tool for [Prolog](https://www.swi-prolog.org/) is to noticeable, so I've created this repo in a similar manner for a better usability and common flow across different projects.
+Lack of [Maven](http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html) like tool for [Prolog](https://www.swi-prolog.org/) is to noticeable, so I've created this repo in a similar manner for a better usability and common flow across different projects.
 
 # Description
 A sample `Hello World` template project for SWI-Prolog.
